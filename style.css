@@ -1,0 +1,154 @@
+.Button{
+    border-radius: 40px;
+}
+.img1{
+    height: 40px;
+    width: 50px;
+}
+.img2{
+    height: 40px;
+    width: 50px;
+}
+.divchild1{
+    display: flex;
+    text-align: center;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+.divchild2{
+    display: flex;
+    text-align: center;
+    padding-top: 16px;
+    padding-left: 38px;
+}
+.btn{
+    color: white;
+    border-radius: 50px;
+    background-color: #1D3746;
+    padding-top: 5px;
+    padding-left: 12px;
+     padding-right: 12px;
+    
+}
+.divparent2 {
+    padding: 200px;
+    width: 50%;
+    padding-top: 25px;
+    padding-right: 0px;
+}
+.divgrandchild1 {
+    padding:3%;
+    border-style:ridge;
+    border-width: 1px;
+}
+.divgrandchild2{
+    padding:3%;
+    border-style: ridge;
+    border-width: 1px;
+}
+.divgrandchild3 {
+    padding:3%;
+    border-style: ridge;
+    border-width: 1px;
+}
+.divgrandchild4 {
+    padding:3%;
+    border-style: ridge;
+    border-width: 1px;
+}
+.Butt{
+    color: white;
+    border-radius: 50px;
+    background-color: #1D3746;
+}
+.image{
+    height: 345px;
+    border-radius: 10px;
+    width: 230px;
+}
+.image2{
+    border-radius: 10px;
+    height: 345px;
+    width: 230px;
+}
+.image3{
+    height: 200px;
+    width: 400px;
+}
+.imagex{
+    height: 300px;
+    width: 185px;
+    padding-top: 20px;
+}
+.imagey{
+    height: 300px;
+    width: 185px;
+    padding-top: 20px;
+}
+.imagez{
+    height: 350px;
+    width: 238px;
+}
+.parentchildv{
+    font-size: 12px;
+}
+.colorgx{
+     color:#666666;
+
+}
+.text{
+    color: #1D3746;
+}
+.headingcolor{
+    color:  #1D3746;
+}
+.imagev{
+    height: 540px;
+    width: 340px;
+}
+.imagea{
+    height: 275px;
+    width: 255px;
+}
+
+.image11 {
+    margin-top: 10px;
+    height: 251px;
+    width: 255px;
+}
+.imagen{
+    height: 230px;
+    width: 450px;
+    padding-left: 60px;
+}
+.imagei{
+    height: 230px;
+    width: 450px;
+}
+.img8{
+      height: 70px;
+      width: 70px;
+}
+.texto{
+list-style-type: none;
+column-gap: 15px;
+font-size: 12px;
+padding-right: 100px;
+}
+.IMAGE{
+    height: 35px;
+    margin-top: 20px;
+    width: 100px;
+}
+.copy{
+    display: flex;
+width: 100%;
+text-align: center;
+justify-content: center;
+background-color: white;
+color: #1D3746;
+;
+}
+.Icon{
+    gap: 5px;
+}
